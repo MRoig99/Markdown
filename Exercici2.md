@@ -1,3 +1,6 @@
+Exercici GIT 2: Ús de l'historial de canvis
+=
+
 Exercici 1
 -
 
