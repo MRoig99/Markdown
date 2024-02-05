@@ -1,3 +1,6 @@
+Exercici GIT 3: Desfer canvis
+=
+
 Exercici 1
 -
 
