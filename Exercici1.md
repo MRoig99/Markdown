@@ -1,5 +1,5 @@
 Exercici GIT 1: Creació i actualització de repositoris
-#
+=
 
 Exercici 1
 -
